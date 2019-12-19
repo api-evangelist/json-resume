@@ -1,0 +1,52 @@
+{
+    "name": "Json Resume",
+    "description": "<p><span>Json R&eacute;sum&eacute; is a community driven open source initiative to create a JSON based standard for r&eacute;sum&eacute;s. There is no reason why there can't be a common standard for writing a r&eacute;sum&eacute; that can be extended with an ecosystem of open source tools.&nbsp;<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/json-resume.png",
+    "tags": [
+        "api tools",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/json-resume\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Json Resume",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/json-resume.png",
+            "humanURL": "http:\/\/jsonresume.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/json-resume-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/json-resume-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/jsonresume.org\/blog\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/jsonresume"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/jsonresume"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/jsonresume.org\/"
+        }
+    ]
+}
